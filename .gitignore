@@ -60,3 +60,9 @@ lib64
 pyvenv.cfg
 __pycache__/
 .pytest__cache/
+
+# Project
+*.7z
+*.mp4
+*.m4a
+*.mp3
