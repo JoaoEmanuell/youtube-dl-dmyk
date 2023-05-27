@@ -51,3 +51,12 @@ venv/
 
 # VS Code related files
 .vscode
+
+# Python
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
+__pycache__/
+.pytest__cache/
